@@ -27,19 +27,16 @@ A clean, minimal Web API that calculates the sum of angles for hour and minute h
 ### Parameters
 
 Option 1: Time string
-
 ```
 GET /ClockAngle?time=03:00
 ```
 
 Option 2: Separate hour and minute
-
 ```
 GET /ClockAngle?hour=3&minute=0
 ```
 
 ### Response
-
 ```json
 {
   "totalAngle": 90
@@ -53,7 +50,6 @@ GET /ClockAngle?hour=3&minute=0
 - **Result:** Sum of both angles
 
 ### Examples
-
 - `3:00` → Hour: 90°, Minute: 0° → Total: 90°
 - `3:15` → Hour: 97.5°, Minute: 90° → Total: 187.5°  
   (Note: Hour hand moves 0.5° per minute, so at 3:15 it's at 90° + 7.5° = 97.5°)
@@ -63,7 +59,6 @@ GET /ClockAngle?hour=3&minute=0
 ## Running the Project
 
 ### API
-
 ```bash
 cd ClockAngle
 dotnet run
@@ -72,7 +67,6 @@ dotnet run
 Navigate to `https://localhost:7xxx/swagger` to test the API.
 
 ### Tests
-
 ```bash
 cd ClockAngle
 dotnet test ClockAngle.Tests/ClockAngle.Tests.csproj
@@ -93,7 +87,6 @@ dotnet test ClockAngle.Tests/ClockAngle.Tests.csproj
 6. **Clean Code**: No comments needed - the code is self-documenting through clear naming and simple logic.
 
 ## Project Structure
-
 ```
 ClockAngle/
 ├── Controllers/
