@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ClockAngle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97AE1E2F-4E66-4371-9083-87D311C1A6B5}|ClockAngle.csproj|d:\\clockangle\\clockangle.tests\\clockanglecalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97AE1E2F-4E66-4371-9083-87D311C1A6B5}|ClockAngle.csproj|solutionrelative:clockangle.tests\\clockanglecalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97AE1E2F-4E66-4371-9083-87D311C1A6B5}|ClockAngle.csproj|d:\\clockangle\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97AE1E2F-4E66-4371-9083-87D311C1A6B5}|ClockAngle.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97AE1E2F-4E66-4371-9083-87D311C1A6B5}|ClockAngle.csproj|d:\\clockangle\\controllers\\clockanglecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97AE1E2F-4E66-4371-9083-87D311C1A6B5}|ClockAngle.csproj|solutionrelative:controllers\\clockanglecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClockAngleController.cs",
+              "DocumentMoniker": "D:\\ClockAngle\\Controllers\\ClockAngleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClockAngleController.cs",
+              "ToolTip": "D:\\ClockAngle\\Controllers\\ClockAngleController.cs",
+              "RelativeToolTip": "Controllers\\ClockAngleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T16:46:41.166Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClockAngleCalculatorTests.cs",
+              "DocumentMoniker": "D:\\ClockAngle\\ClockAngle.Tests\\ClockAngleCalculatorTests.cs",
+              "RelativeDocumentMoniker": "ClockAngle.Tests\\ClockAngleCalculatorTests.cs",
+              "ToolTip": "D:\\ClockAngle\\ClockAngle.Tests\\ClockAngleCalculatorTests.cs",
+              "RelativeToolTip": "ClockAngle.Tests\\ClockAngleCalculatorTests.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T16:58:55.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\ClockAngle\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\ClockAngle\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T16:48:41.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
